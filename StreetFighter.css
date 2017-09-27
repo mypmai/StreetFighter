@@ -1,0 +1,86 @@
+#arena{
+	width: 920px;
+	height: 800px;
+	border:5px solid grey;
+	background-color: #353735;	
+	display: inline-block;
+
+}
+.beach{
+	background-image: url("beach.jpg");
+}
+.planet{
+	background-image: url("earth.jpg");
+}
+.dojo{
+	background-image: url("dojo.jpg");
+}
+.matrix{
+	background-image: url("matrix.jpg");
+}
+.snow{
+	background-image: url("snow.jpg");
+}
+.forest{
+	background-image: url("forest.jpg");
+}
+
+
+#sArena{
+	width:300px;
+	height: 300px; 
+	border: 5px solid green;
+	background-color: grey;
+	margin: 200px 0px 0px 300px;
+	border-radius: 15px;
+
+}
+h1{
+	text-align: center;
+}
+
+button{
+	width: 100px;
+	height: 30px;
+	margin-left: 30px;
+	margin-bottom: 20px;
+	background-color: green;
+	border-radius: 10px;
+	font-weight: bolder;
+
+}
+
+
+#sPlayers{
+	width:300px;
+	height: 300px; 
+	border: 5px solid green;
+	background-color: grey;
+	
+	border-radius: 15px;
+	display: inline-block;
+	vertical-align: top;
+}
+
+select{
+	width: 120px;
+	height: 30px;
+	margin-left: 20px;
+}
+
+img{
+	display: inline-block;
+	vertical-align: top;
+	margin-top: 200px;
+	width: 250px;
+}
+#right{
+	margin-left: 50px;
+}
+.center{
+	margin-left: 50px;
+	margin-top: 200px;
+}
+.top{
+	margin: 200px 0px 0px 50px;
+}
